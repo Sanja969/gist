@@ -1,0 +1,14 @@
+.greetings {
+  font-family: Arial, sans-serif;
+  font-size: 1.5rem;
+}
+
+.greetings.english {
+  background-color: #000;
+  color: #FFF;
+}
+.greetings.spanish {
+  background-color: #FFF;
+  color: #000;
+}
+/* this is dry because is it giving shared properties all all greetings, and it gave unique properties for some greating */
